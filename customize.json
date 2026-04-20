@@ -1,0 +1,29 @@
+{
+  "greeting": "Oi,",
+  "name": "Alice 😄",
+  "greetingText": "Eu tava pensando em como fazer algo diferente pra você...",
+  "wishText": "❤️",
+  "imagePath": "img/lydia2.png",
+  "text1": "Hoje é o seu aniversário!!!",
+  "textInChatBox": "Feliz aniversárioooooooooooooo!! ❤️❤️",
+  "sendButtonLabel": "Enviar",
+  "text2": "Eu podia só te mandar um parabéns normal...",
+  "text3": "Mas convenhamos, isso seria meio sem graça 😒",
+  "text4": "Então eu resolvi fazer algo diferente, ",
+  "text4Adjective": "bem diferente",
+  "text5Entry": "Porque você definitivamente não é uma pessoa comum...",
+  "text5Content": "",
+  "smiley": "😄",
+  "bigTextPart1": "<3",
+  "wishHeading": "PARABÉNS!!",
+  "outroText": "Eu só queria te fazer sorrir um pouco hoje...",
+  "replayText": "E lembrar do quanto você é importante pra mim… de verdade. Bjão!! ❤️❤️❤️",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Fira Sans",
+      "path": "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    }
+  ]
+}
